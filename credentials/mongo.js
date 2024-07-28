@@ -1,4 +1,4 @@
 module.exports = {
-    remoteConnString: '<PASTE YOUR REMOTE CONN STRING>',
+    remoteConnString: 'mongodb://localhost:27017',
     localConnString: 'mongodb://localhost:27017/todo'
 }
